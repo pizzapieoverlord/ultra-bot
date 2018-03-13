@@ -1,1 +1,1 @@
-worker: python ultra-bot.py
+worker: python Ultra-Bot.py
